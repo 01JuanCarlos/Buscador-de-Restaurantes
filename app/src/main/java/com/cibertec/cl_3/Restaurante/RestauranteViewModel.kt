@@ -19,10 +19,12 @@ class RestauranteViewModel: ViewModel() {
                     val titulo = document.getString("titulo")
                     val descripcion = document.getString("descripcion")
                     val imagen = document.getString("imagen")
+                    val lat = document.getString("lat")
+                    val long = document.getString("long")
 
-                    if (titulo != null && descripcion != null && imagen != null) {
+                    if (titulo != null && descripcion != null && imagen != null && lat != null && long != null) {
                         val restaurante =
-                            RestauranteFirebase(titulo, descripcion, imagen)
+                            RestauranteFirebase(titulo, descripcion, imagen,lat,long)
                         listaRest.add(restaurante)
                     }
                 }
@@ -32,5 +34,8 @@ class RestauranteViewModel: ViewModel() {
                 Log.d("TAG", "Error getting documents: ", exception)
             }
     }
+
+
+
 
 }

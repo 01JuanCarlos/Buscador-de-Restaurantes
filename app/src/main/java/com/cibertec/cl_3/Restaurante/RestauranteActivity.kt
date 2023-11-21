@@ -6,6 +6,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.cibertec.cl_3.Mapa.MapaActivity
 import com.cibertec.cl_3.R
 
 class RestauranteActivity: AppCompatActivity(), RestauranteAdapter.ItemClickListener
@@ -37,12 +38,12 @@ class RestauranteActivity: AppCompatActivity(), RestauranteAdapter.ItemClickList
     }
 
     override fun onItemClick(restaurante: RestauranteFirebase) {
-
-        /*val intent = Intent(this, PedidosActivity::class.java)
-        intent.putExtra("nombre", pedidos.nombre)
-        intent.putExtra("categoria", pedidos.categoria)
-        intent.putExtra("imagen", pedidos.imagen)
+        val lat =restaurante.lat
+        val long =restaurante.long
+        val intent = Intent(this, MapaActivity::class.java)
+        intent.putExtra("lat", lat)
+        intent.putExtra("long", long)
         startActivity(intent)
-*/
+
     }
 }

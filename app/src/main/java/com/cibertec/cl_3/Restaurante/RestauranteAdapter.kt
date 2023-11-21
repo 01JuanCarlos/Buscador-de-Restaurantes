@@ -37,5 +37,7 @@ class RestauranteAdapter (val mItemClickListener: ItemClickListener):
 
     interface ItemClickListener{
         fun onItemClick(restaurante: RestauranteFirebase)
+
+
     }
 }
