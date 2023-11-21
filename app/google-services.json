@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "114233641594",
+    "project_id": "apprestaurante-58a22",
+    "storage_bucket": "apprestaurante-58a22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114233641594:android:ab02285cb73bd187eb09c3",
+        "android_client_info": {
+          "package_name": "com.cibertec.apprestaurante"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy0p2jCZuUeamgQk0u65223SSwZxgjqg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114233641594:android:dd39249edd4b0c28eb09c3",
+        "android_client_info": {
+          "package_name": "com.cibertec.cl_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy0p2jCZuUeamgQk0u65223SSwZxgjqg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
