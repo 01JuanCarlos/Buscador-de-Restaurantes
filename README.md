@@ -1,6 +1,6 @@
 <div id="user-content-toc">
   <ul align="center">
-	<h1 align="center" size="100px" >Aplicación Android, <a href="https://github.com/01JuanCarlos">Buscador de Restaurantes en trujillo</a> </h1>
+	<h1 align="center" size="100px" >Aplicación Android, <a href="https://github.com/01JuanCarlos">Buscador de Restaurantes</a> </h1>
   </ul>
 </div>
 
