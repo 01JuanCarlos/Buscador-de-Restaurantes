@@ -7,11 +7,12 @@
 <h3>
 </h3>
 
-<p>
+<p align="center">
 Esta aplicación permite consultar la ubicación de la lista de restaurantes disponibles.
 </p>
+<div align="center">
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologías usadas:</b><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologías usadas:</b>
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)](#)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)](#)
@@ -22,8 +23,8 @@ Esta aplicación permite consultar la ubicación de la lista de restaurantes dis
 
 
 
-<div align="center">
-<img src="https://i.ibb.co/CPfxc0P/lista-de-restaurantes.gif" width ="">
+<img src="https://i.ibb.co/CPfxc0P/lista-de-restaurantes.gif" width="300">
+
 </div>
 
 
@@ -34,22 +35,15 @@ Esta aplicación permite consultar la ubicación de la lista de restaurantes dis
 
 <br>
 <br>
+
+<div align='center'>
 <b>Contactos:</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80" >
 <br>
 
-<div align='left'>
-<a href="linkedin.com/in/juan-torres-miranda" >
-<img src="https://img.shields.io/badge/linkedin -%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-	<link href="linkedin.com/in/juan-torres-miranda">linkedin.com/in/juan-torres-miranda</link>
-</a>
+<a href="linkedin.com/in/juan-torres-miranda">linkedin.com/in/juan-torres-miranda</a>
 <br>
 
-<img src="https://img.shields.io/badge/gmail  -%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-	<spam>juancarlostorresmiranda96@gmail.com</spam>
-
-
-	
-
+<spam>juancarlostorresmiranda96@gmail.com</spam>
 </div>
 
 <br>
