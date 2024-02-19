@@ -8,7 +8,16 @@
 </h3>
 
 <p>
+Esta aplicación permite consultar la ubicación de la lista de restaurantes disponibles.
 </p>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologías usadas:</b>
+
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)](#)
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)](#)
+[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)](#)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)](#)
+[![Maps](https://img.shields.io/badge/Google_Maps-FFCA28?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=101010)](#)
 
 
 
@@ -19,7 +28,6 @@
 
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>	
 
 <br>
 <br>
