@@ -37,13 +37,11 @@ Esta aplicación permite consultar la ubicación de la lista de restaurantes dis
 <br>
 
 <div align='center'>
-<b>Contactos:</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80" >
+<b>Contactos:</b>
 <br>
-
 <a href="linkedin.com/in/juan-torres-miranda">linkedin.com/in/juan-torres-miranda</a>
 <br>
-
-<spam>juancarlostorresmiranda96@gmail.com</spam>
+<a href="juancarlostorresmiranda96@gmail.com">juancarlostorresmiranda96@gmail.com</a>
 </div>
 
 <br>
