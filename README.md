@@ -1,6 +1,6 @@
 <div id="user-content-toc">
   <ul align="center">
-	<h1 align="center" size="100px" >Aplicación Android, <a href="https://github.com/01JuanCarlos"></a>Lista de Restaurantes en trujillo </h1>
+	<h1 align="center" size="100px" >Aplicación Android, <a href="https://github.com/01JuanCarlos">Buscar Restaurantes en trujillo</a> </h1>
   </ul>
 </div>
 
@@ -13,10 +13,9 @@
 
 
 
-
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologías:</b>
-
+<div align="center">
+<img src="https://i.ibb.co/CPfxc0P/lista-de-restaurantes.gif" width ="">
+</div>
 
 
 
@@ -24,9 +23,7 @@
 
 <br>
 <br>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=01JuanCarlos&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
-</div>
+
 <br>
 <br>
 <b>Contactos:</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80" >
